@@ -14,18 +14,18 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-01-whoami.svg"/><img src="assets/section-01-whoami.svg" alt="01 — whoami"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-whoami.svg"/><img src="assets/card-whoami.svg" alt="About Manikandan S"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-02-projects.svg"/><img src="assets/section-02-projects.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-02-projects.svg"/><img src="assets/section-02-projects.svg" alt="02 — featured works"/></picture>
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/mergex" target="_blank">
-        <img src="assets/card-project-mergex.svg" alt="MergeX" width="400">
+        <img src="assets/card-project-mergex.webp" alt="MergeX" width="400">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Melvinkheturus" target="_blank">
-        <img src="assets/card-project-dutuk.svg" alt="Dutuk" width="400">
+        <img src="assets/card-project-dutuk.webp" alt="Dutuk" width="400">
       </a>
     </td>
   </tr>
