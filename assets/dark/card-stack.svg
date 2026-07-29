@@ -13,7 +13,7 @@
   <line x1="148" y1="8" x2="148" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="164" y="32"  font-size="15" fill="var(--bone)">TypeScript · JavaScript · HTML/CSS · Python · SQL · Go · Rust</text>
+  <text class="mono rise a1" x="164" y="32"  font-size="15" fill="var(--bone)">TypeScript · JavaScript · HTML/CSS · Python · SQL</text>
 
   <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">FRONTEND</text>
   <text class="mono rise a2" x="164" y="64"  font-size="15" fill="var(--bone)">Next.js · React · React Native · Tailwind CSS · GSAP · Framer Motion</text>
@@ -31,5 +31,5 @@
   <text class="mono rise a6" x="164" y="192" font-size="15" fill="var(--bone)">Figma · Claude Design · Stitch · Photoshop · Design Systems</text>
 
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">DEVOPS</text>
-  <text class="mono rise a7" x="164" y="224" font-size="15" fill="var(--bone)">Vercel · Git · GitHub Actions · Postman</text>
+  <text class="mono rise a7" x="164" y="224" font-size="15" fill="var(--bone)">Vercel · Cloudflare · Hostinger · DigitalOcean · Git · GitHub Actions</text>
 </svg>
