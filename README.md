@@ -19,13 +19,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/mergex" target="_blank">
-        <img src="assets/card-project-mergex.webp" alt="MergeX" width="400">
+      <a href="https://neidhal-fc.vercel.app" target="_blank">
+        <img src="assets/card-project-neidhalfc.webp" alt="Neidhal FC" width="400">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Melvinkheturus" target="_blank">
-        <img src="assets/card-project-dutuk.webp" alt="Dutuk" width="400">
+      <a href="https://micandmacstores.com" target="_blank">
+        <img src="assets/card-project-micandmac.webp" alt="Mic and Mack" width="400">
       </a>
     </td>
   </tr>
