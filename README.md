@@ -1,4 +1,4 @@
-<img src="images/banner.svg" alt="Banner" width="100%">
+<img src="images/banner.webp" alt="Banner" width="100%">
 
 <img src="images/text.svg" alt="Text" width="100%">
 
