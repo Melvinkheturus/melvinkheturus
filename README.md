@@ -1,4 +1,7 @@
-<img src="images/banner.webp" alt="Banner" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.webp" />
+  <img src="images/banner-light.webp" alt="Banner" width="100%" />
+</picture>
 
 <img src="images/text.svg" alt="Text" width="100%">
 
