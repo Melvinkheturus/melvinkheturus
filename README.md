@@ -3,7 +3,7 @@
   <img src="assets/banner-light.webp" alt="Banner" width="100%" />
 </picture>
 
-<img src="assets/header-title-text.svg" alt="Text" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-title-text.svg"/><img src="assets/header-title-text.svg" alt="Text" width="100%"></picture>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-top: 30px;">
   <a href="https://smkfolio.vercel.app" target="_blank"><img src="assets/badge-website.svg" alt="Website" width="260"></a>
@@ -47,4 +47,4 @@
 
 ---
 
-<img src="assets/footer-thank-you.svg" alt="Thank You!" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer-thank-you.svg"/><img src="assets/footer-thank-you.svg" alt="Thank You!" width="100%"></picture>
